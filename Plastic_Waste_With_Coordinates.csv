@@ -1,0 +1,166 @@
+Country,Total_Plastic_Waste_MT,Main_Sources,Recycling_Rate,Per_Capita_Waste_KG,Coastal_Waste_Risk,Cluster,Latitude,Longitude
+China,59.08,Packaging_Industrial,29.8,41.2,High,1,35.0000663,104.999955
+United States,42.02,Packaging_Consumer,32.1,127.5,Medium,1,39.7837304,-100.445882
+India,26.33,Consumer_Goods,11.5,19.3,High,2,22.3511148,78.6677428
+Japan,7.99,Packaging_Electronics,84.8,63.2,Medium,1,36.5748441,139.2394179
+Germany,6.28,Automotive_Packaging,56.1,75.6,Low,1,51.1638175,10.4478313
+Brazil,5.96,Consumer_Packaging,1.2,28.1,Medium,0,-10.3333333,-53.2
+Indonesia,5.85,Food_Packaging,11.8,21.3,Very_High,2,-2.4833826,117.8902853
+Russia,5.84,Industrial_Consumer,5.6,40.2,Medium,0,64.6863136,97.7453061
+United Kingdom,5.03,Packaging_Consumer,46.2,74.3,Low,1,54.7023545,-3.2765753
+France,4.98,Packaging_Consumer,27.3,73.1,Low,2,46.603354,1.8883335
+Mexico,4.43,Consumer_Packaging,6.7,34.2,High,0,19.4326296,-99.1331785
+Canada,3.89,Packaging_Consumer,9.4,102.1,Low,2,61.0666922,-107.991707
+Italy,3.83,Packaging_Industrial,41.2,63.4,Medium,1,42.6384261,12.674297
+Turkey,3.21,Consumer_Packaging,12.1,38.5,High,2,38.9597594,34.9249653
+South Korea,2.91,Electronics_Packaging,59.1,56.7,Medium,1,36.638392,127.6961188
+Spain,2.58,Consumer_Packaging,37.8,54.9,Medium,1,39.3260685,-4.8379791
+Vietnam,2.54,Food_Packaging,15.3,25.8,Very_High,2,15.9266657,107.9650855
+Thailand,2.41,Consumer_Packaging,17.6,34.5,High,2,14.8971921,100.83273
+Malaysia,2.31,Industrial_Consumer,24.3,70.2,High,2,4.5693754,102.2656823
+Poland,2.21,Packaging_Industrial,34.5,58.3,Low,1,52.215933,19.134422
+Egypt,2.01,Consumer_Packaging,6.5,19.3,High,0,26.2540493,29.2675469
+Argentina,1.98,Consumer_Packaging,14.2,43.5,Medium,2,-34.9964963,-64.9672817
+Netherlands,1.78,Industrial_Packaging,55.9,102.8,Low,1,52.2434979,5.6343227
+Australia,1.67,Consumer_Packaging,13.2,64.8,Medium,2,-24.7761086,134.755
+Saudi Arabia,1.65,Consumer_Packaging,4.5,46.9,Medium,0,25.6242618,42.3528328
+Philippines,1.63,Food_Packaging,9.1,14.8,Very_High,2,12.7503486,122.7312101
+Bangladesh,1.61,Consumer_Packaging,8.4,9.7,High,2,24.4769288,90.2934413
+Pakistan,1.59,Consumer_Packaging,3.2,7.1,High,0,30.3308401,71.247499
+South Africa,1.58,Consumer_Packaging,18.9,26.4,Medium,2,-28.8166236,24.991639
+Colombia,1.54,Consumer_Packaging,7.8,30.1,Medium,0,4.099917,-72.9088133
+Nigeria,1.53,Consumer_Packaging,2.1,7.3,High,0,9.6000359,7.9999721
+Belgium,1.52,Industrial_Packaging,43.2,131.2,Low,1,50.6402809,4.6667145
+Sweden,1.51,Packaging_Industrial,50.6,146.3,Low,1,59.6749712,14.5208584
+Austria,1.48,Industrial_Packaging,56.4,164.8,Low,1,47.59397,14.12456
+Ukraine,1.47,Consumer_Packaging,3.4,33.7,Medium,0,49.4871968,31.2718321
+Greece,1.45,Consumer_Packaging,21.3,139.2,Medium,2,38.9953683,21.9877132
+Czech Republic,1.43,Industrial_Packaging,41.7,133.9,Low,1,49.7439047,15.3381061
+Romania,1.41,Consumer_Packaging,13.8,73.4,Medium,2,45.9852129,24.6859225
+Portugal,1.39,Consumer_Packaging,31.2,135.8,Medium,1,39.6621648,-8.1353519
+Hungary,1.37,Industrial_Packaging,30.1,141.5,Low,1,47.1817585,19.5060937
+Denmark,1.35,Packaging_Consumer,42.3,232.1,Low,1,55.670249,10.3333283
+Finland,1.33,Industrial_Packaging,42.1,240.2,Low,1,63.2467777,25.9209164
+Norway,1.31,Industrial_Packaging,44.5,243.1,Low,1,64.5731537,11.52803643954819
+Ireland,1.29,Consumer_Packaging,31.2,257.3,Low,1,52.865196,-7.9794599
+Singapore,1.27,Industrial_Packaging,59.8,217.9,Medium,1,1.357107,103.8194992
+Chile,1.25,Consumer_Packaging,8.9,64.7,High,2,-31.7613365,-71.3187697
+Israel,1.23,Consumer_Packaging,14.5,133.7,Medium,2,30.8124247,34.8594762
+Peru,1.21,Consumer_Packaging,2.3,36.4,High,0,-6.8699697,-75.0458515
+Kazakhstan,1.19,Industrial_Consumer,4.5,62.8,Low,0,48.1012954,66.7780818
+Morocco,1.17,Consumer_Packaging,7.8,31.2,High,0,28.3347722,-10.371337908392647
+Algeria,1.15,Consumer_Packaging,4.3,25.9,High,0,28.0000272,2.9999825
+Slovakia,1.13,Industrial_Packaging,38.9,207.1,Low,1,48.7411522,19.4528646
+Ecuador,1.11,Consumer_Packaging,4.1,61.8,High,0,-1.3397668,-79.3666965
+Belarus,1.09,Industrial_Consumer,7.2,115.7,Low,0,53.4250605,27.6971358
+Dominican Republic,1.07,Consumer_Packaging,2.8,97.6,High,0,19.0974031,-70.3028026
+Bulgaria,1.05,Consumer_Packaging,31.5,152.3,Medium,1,42.6073975,25.4856617
+Tunisia,1.03,Consumer_Packaging,4.1,85.9,High,0,36.8002068,10.1857757
+Sri Lanka,1.01,Consumer_Packaging,29.8,46.7,High,1,7.5554942,80.7137847
+Azerbaijan,0.99,Consumer_Packaging,18.2,96.8,Medium,2,40.3936294,47.7872508
+Croatia,0.97,Consumer_Packaging,33.7,238.1,Medium,1,45.3658443,15.6575209
+Uruguay,0.95,Consumer_Packaging,35.2,272.4,Medium,1,-32.8755548,-56.0201525
+Lithuania,0.93,Industrial_Packaging,45.3,334.8,Low,1,55.3500003,23.7499997
+Slovenia,0.91,Industrial_Packaging,42.1,436.5,Low,1,46.1199444,14.8153333
+Costa Rica,0.89,Consumer_Packaging,13.2,172.8,High,2,10.2735633,-84.0739102
+Panama,0.87,Consumer_Packaging,5.4,198.6,High,0,8.559559,-81.1308434
+Kuwait,0.85,Consumer_Packaging,10.2,195.4,High,2,29.3796532,47.9734174
+Jordan,0.83,Consumer_Packaging,7.8,80.6,Medium,0,44.6663146,-93.6261918
+Lebanon,0.81,Consumer_Packaging,6.4,119.1,High,0,40.375713,-76.4626118
+Oman,0.79,Consumer_Packaging,3.2,151.9,High,0,21.0000287,57.0036901
+Bolivia,0.77,Consumer_Packaging,2.8,65.3,Low,0,-17.0568696,-64.9912286
+Paraguay,0.75,Consumer_Packaging,4.1,104.2,Low,0,-23.3165935,-58.1693445
+Latvia,0.73,Industrial_Packaging,43.2,386.8,Low,1,56.8406494,24.7537645
+Estonia,0.71,Industrial_Packaging,31.8,534.6,Low,1,58.7523778,25.3319078
+Bahrain,0.69,Consumer_Packaging,4.5,397.7,High,0,26.030093,50.553336789123236
+Trinidad and Tobago,0.67,Consumer_Packaging,3.2,478.6,High,0,10.7466905,-61.0840075
+Cyprus,0.65,Consumer_Packaging,16.4,531.1,Medium,2,34.9174159,32.889902651331866
+Montenegro,0.63,Consumer_Packaging,3.4,1004.8,Medium,0,-29.6826112,-51.4687455
+Luxembourg,0.61,Industrial_Packaging,48.9,957.8,Low,1,49.6112768,6.129799
+Malta,0.59,Consumer_Packaging,11.2,1331.5,Medium,2,35.8885993,14.4476911
+Iceland,0.57,Consumer_Packaging,55.6,1564.4,Low,1,64.9841821,-18.1059013
+Qatar,0.55,Consumer_Packaging,8.9,188.7,High,2,25.3336984,51.2295295
+Cambodia,0.53,Consumer_Packaging,5.4,31.2,High,0,12.5433216,104.8144914
+Myanmar,0.51,Consumer_Packaging,2.1,9.3,High,0,17.1750495,95.9999652
+Laos,0.49,Consumer_Packaging,1.8,66.2,Medium,0,20.0171109,103.378253
+Mongolia,0.47,Consumer_Packaging,0.9,141.6,Low,0,46.8250388,103.8499736
+Afghanistan,0.45,Consumer_Packaging,0.5,11.4,Low,0,33.7680065,66.2385139
+Yemen,0.43,Consumer_Packaging,0.3,14.2,High,0,16.3471243,47.8915271
+Syria,0.41,Consumer_Packaging,0.4,24.7,Medium,0,34.8147886,38.42317811509885
+Iraq,0.39,Consumer_Packaging,1.2,9.6,Medium,0,33.0955793,44.1749775
+Libya,0.37,Consumer_Packaging,0.8,53.2,High,0,26.8234472,18.1236723
+Sudan,0.35,Consumer_Packaging,0.4,7.9,Medium,0,34.0678644,-102.524362
+Somalia,0.33,Consumer_Packaging,0.1,20.4,High,0,8.3676771,49.083416
+Ethiopia,0.31,Consumer_Packaging,0.7,2.6,Low,0,10.2116702,38.6521203
+Kenya,0.29,Consumer_Packaging,7.8,5.3,High,0,1.4419683,38.4313975
+Tanzania,0.27,Consumer_Packaging,5.4,4.4,High,0,-6.5247123,35.7878438
+Uganda,0.25,Consumer_Packaging,2.3,5.3,Low,0,1.5333554,32.2166578
+Rwanda,0.23,Consumer_Packaging,11.2,17.4,Low,2,-1.9646631,30.0644358
+Burundi,0.21,Consumer_Packaging,0.8,17.3,Low,0,-3.426449,29.9324519
+Malawi,0.19,Consumer_Packaging,0.5,9.7,Low,0,-13.2687204,33.9301963
+Mozambique,0.17,Consumer_Packaging,0.9,5.3,High,0,-19.302233,34.9144977
+Zimbabwe,0.15,Consumer_Packaging,2.1,9.9,Low,0,-18.4554963,29.7468414
+Zambia,0.13,Consumer_Packaging,1.8,6.9,Low,0,-14.5189121,27.5589884
+Angola,0.11,Consumer_Packaging,0.4,3.3,High,0,-11.8775768,17.5691241
+Namibia,0.09,Consumer_Packaging,12.3,35.1,High,2,-23.2335499,17.3231107
+Botswana,0.07,Consumer_Packaging,8.9,29.3,Low,2,-23.1681782,24.5928742
+Lesotho,0.05,Consumer_Packaging,0.7,23.2,Low,0,-29.6039267,28.3350193
+Eswatini,0.03,Consumer_Packaging,1.2,25.6,Low,0,-26.5624806,31.3991317
+Madagascar,0.21,Consumer_Packaging,2.1,7.4,High,0,-18.9249604,46.4416422
+Comoros,0.02,Consumer_Packaging,0.4,22.7,High,0,-12.2045176,44.2832964
+Mauritius,0.08,Consumer_Packaging,15.4,62.8,High,2,-20.2759451,57.5703566
+Seychelles,0.01,Consumer_Packaging,18.9,101.2,High,2,-4.6574977,55.4540146
+Cape Verde,0.02,Consumer_Packaging,3.4,35.6,High,0,16.0000552,-24.0083947
+Sao Tome and Principe,0.01,Consumer_Packaging,0.8,45.2,High,0,0.9713095,7.02255
+Guinea-Bissau,0.04,Consumer_Packaging,0.3,19.8,High,0,11.815215,-15.2351044
+Guinea,0.08,Consumer_Packaging,0.5,6.0,High,0,10.7226226,-10.7083587
+Sierra Leone,0.06,Consumer_Packaging,0.4,7.3,High,0,8.6400349,-11.8400269
+Liberia,0.05,Consumer_Packaging,0.2,9.7,High,0,5.7499721,-9.3658524
+Ivory Coast,0.18,Consumer_Packaging,1.2,6.7,High,0,7.9897371,-5.5679458
+Ghana,0.22,Consumer_Packaging,4.5,7.0,High,0,8.0300284,-1.0800271
+Togo,0.07,Consumer_Packaging,0.8,8.3,High,0,8.7800265,1.0199765
+Benin,0.09,Consumer_Packaging,0.6,7.3,High,0,9.5293472,2.2584408
+Mali,0.12,Consumer_Packaging,0.3,5.8,Low,0,16.3700359,-2.2900239
+Burkina Faso,0.14,Consumer_Packaging,0.4,6.5,Low,0,12.0753083,-1.6880314
+Niger,0.11,Consumer_Packaging,0.2,4.4,Low,0,17.7356214,9.3238432
+Chad,0.09,Consumer_Packaging,0.1,5.4,Low,0,15.6134137,19.0156172
+Central African Republic,0.04,Consumer_Packaging,0.2,8.1,Low,0,7.0323598,19.9981227
+Cameroon,0.19,Consumer_Packaging,1.2,7.0,High,0,4.6125522,13.1535811
+Gabon,0.06,Consumer_Packaging,2.3,26.4,High,0,-0.8999695,11.6899699
+Republic of Congo,0.08,Consumer_Packaging,0.9,14.2,High,0,-2.9814344,23.8222636
+Democratic Republic of Congo,0.24,Consumer_Packaging,0.4,2.6,Medium,0,-15.4139213,28.289698
+Eritrea,0.05,Consumer_Packaging,0.3,13.9,High,0,15.9500319,37.9999668
+Djibouti,0.03,Consumer_Packaging,1.1,29.7,High,0,11.8145966,42.8453061
+Senegal,0.16,Consumer_Packaging,1.8,9.4,High,0,14.4750607,-14.4529612
+Gambia,0.02,Consumer_Packaging,0.5,8.1,High,0,13.470062,-15.4900464
+Mauritania,0.07,Consumer_Packaging,0.4,14.8,High,0,20.2540382,-9.2399263
+Western Sahara,0.01,Consumer_Packaging,0.2,18.5,High,0,24.1797324,-13.7667848
+Moldova,0.28,Consumer_Packaging,12.3,69.7,Low,2,47.2879608,28.5670941
+Albania,0.31,Consumer_Packaging,15.6,107.9,Medium,2,5.7587654,-73.9151617
+North Macedonia,0.29,Consumer_Packaging,17.8,139.2,Low,2,41.6171214,21.7168387
+Bosnia and Herzegovina,0.34,Consumer_Packaging,13.2,104.5,Low,2,44.3053476,17.5961467
+Kosovo,0.21,Consumer_Packaging,8.9,115.7,Low,2,42.5869578,20.9021231
+Georgia,0.33,Consumer_Packaging,11.2,88.3,Medium,2,32.3293809,-83.1137366
+Armenia,0.28,Consumer_Packaging,9.8,94.2,Low,2,4.536307,-75.6723751
+Kyrgyzstan,0.25,Consumer_Packaging,4.5,37.8,Low,0,41.5089324,74.724091
+Tajikistan,0.22,Consumer_Packaging,3.2,22.7,Low,0,38.6281733,70.8156541
+Turkmenistan,0.35,Consumer_Packaging,2.1,57.3,Low,0,39.3763807,59.3924609
+Uzbekistan,0.42,Consumer_Packaging,3.4,12.3,Low,0,41.32373,63.9528098
+Nepal,0.38,Consumer_Packaging,5.6,12.8,Low,0,28.3780464,83.9999901
+Bhutan,0.05,Consumer_Packaging,12.3,64.2,Low,2,27.549511,90.5119273
+Maldives,0.04,Consumer_Packaging,3.2,72.8,Very_High,0,3.7203503,73.2244152
+Brunei,0.12,Consumer_Packaging,8.9,269.4,High,2,4.4137155,114.5653908
+East Timor,0.06,Consumer_Packaging,2.3,44.7,High,0,-8.7443169,126.063482
+Papua New Guinea,0.15,Consumer_Packaging,1.2,16.5,High,0,-5.6816069,144.2489081
+Solomon Islands,0.03,Consumer_Packaging,0.8,42.9,High,0,-8.7053941,159.1070693851845
+Vanuatu,0.02,Consumer_Packaging,1.1,63.8,High,0,-16.5255069,168.1069154
+New Caledonia,0.04,Consumer_Packaging,23.4,138.6,High,2,-20.63784275,161.21176261225781
+Fiji,0.07,Consumer_Packaging,6.7,76.9,High,0,-18.1239696,179.0122737
+Samoa,0.01,Consumer_Packaging,4.5,49.8,High,0,-13.7693895,-172.12005
+Tonga,0.01,Consumer_Packaging,3.2,92.7,High,0,-19.9160819,-175.202642
+Kiribati,0.01,Consumer_Packaging,2.1,82.4,High,0,0.3448612,173.6641773
+Marshall Islands,0.01,Consumer_Packaging,1.8,168.5,High,0,8.230816999999998,167.7953223704529
+Micronesia,0.01,Consumer_Packaging,1.5,86.3,High,0,8.6062347,151.832744331612
+Palau,0.01,Consumer_Packaging,12.3,437.2,High,2,42.5717989,2.9600905
+Tuvalu,0.01,Consumer_Packaging,1.2,833.3,High,0,-8.6405212,179.1582918181797
+Nauru,0.01,Consumer_Packaging,0.9,927.8,High,0,-0.5252306,166.9324426
